@@ -55,7 +55,7 @@
 				<ul>
 					<li>로그인</li>
 				</ul>
-				
+
 			</td>
 		</tr>
 		<tr>
@@ -71,21 +71,21 @@
 						<li>JTree를 사용하여 목록을 펼쳤다 접었다 할 수 있음</li>
 					</ol>
 				</ul>
-		<table style="border:1px solid black">
-        <tr>
-          <td>
-            <img src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMTk1/MDAxNTU3NjczNTI1MjEx.ogCacFu3Keu8ejn9QgzkWZ3LayJdrRYh7Hy296YeEmwg.J393dQSunSSa_pcu9IC6g8C1Fj0LwcppBhAFCvK7k7Mg.PNG.soccerson/4.png" width="250px"/>
-          </td>
-          <td>
-          <ul>
-          	<li>계좌 개설 버튼을 누르면 새로운 계좌를 만들 수 있다</li>
-          	<li>원하는 은행을 선택할 수 있고 계좌번호는 랜덤하게 생성된다</li>
-          	<li>계좌번호는 중복되지 않으며 새로고침을 누르면 새로운 계좌번호가 생성된다</li>
-          	<li>계좌를 생성하면 잔액 0원으로 나의 계좌 목록에 새로운 계좌가 생성된다</li>
-          </ul>
-          </td>
-        </tr>
-      </table>
+				<table style="border: 1px solid black">
+					<tr>
+						<td><img
+							src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMTk1/MDAxNTU3NjczNTI1MjEx.ogCacFu3Keu8ejn9QgzkWZ3LayJdrRYh7Hy296YeEmwg.J393dQSunSSa_pcu9IC6g8C1Fj0LwcppBhAFCvK7k7Mg.PNG.soccerson/4.png"
+							width="250px" /></td>
+						<td>
+							<ul>
+								<li>계좌 개설 버튼을 누르면 새로운 계좌를 만들 수 있다</li>
+								<li>원하는 은행을 선택할 수 있고 계좌번호는 랜덤하게 생성된다</li>
+								<li>계좌번호는 중복되지 않으며 새로고침을 누르면 새로운 계좌번호가 생성된다</li>
+								<li>계좌를 생성하면 잔액 0원으로 나의 계좌 목록에 새로운 계좌가 생성된다</li>
+							</ul>
+						</td>
+					</tr>
+				</table>
 			</td>
 		</tr>
 		<tr>
@@ -96,7 +96,8 @@
 				<ul>
 					<li>ATM 탭(입금)</li>
 					<ol type="1">
-						<li>입금을 버튼을 누르고 입금할 나의 계좌와 금액을 선택하여 확인을 누르면 입금된 계좌와 나의 총 잔액이 증가한다</li>
+						<li>입금을 버튼을 누르고 입금할 나의 계좌와 금액을 선택하여 확인을 누르면 입금된 계좌와 나의 총 잔액이
+							증가한다</li>
 					</ol>
 				</ul>
 			</td>
@@ -126,59 +127,59 @@
 					<li>서로 다른 컴퓨터에서 실행</li>
 					<li>Stream을 통해 JSON형식으로 데어터를 주고 받는게 가능</li>
 				</ul>
-				<table style="border:1px solid black">
-        <tr>
-          <td>
-            <img src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMTk0/MDAxNTU3NjczNTI1NDI3.X9NgEKj20OsqZL6hziBSRyUy1dt08HO2LETgzuh7HdQg.KFX5mGvxksi__7HR828QXpHOf2h9kRmGkCwXefPHk-og.PNG.soccerson/8.png" width="250px"/>
-          </td>
-          <td>
-          <ul>
-          	<li>보낼 금액을 입력하고 보내기 버튼 클릭</li>
-          </ul>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMjc1/MDAxNTU3NjczNTI1NDcy.Swx1PMH1I4YDvtYEjO4g9YhTHfdRK0p1NUewyJ2CiUog.3cuO58VzkSHofcTdFAE-Mc5lzyse08Dz3PO1PgMVx-8g.PNG.soccerson/9.png" width="250px"/>
-          </td>
-          <td>
-          <ul>
-          	<li>나의 어떤 계좌에서 보낼건지 고르고 상대방의 은행 및 계좌번호 입력</li>
-          </ul>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMjA1/MDAxNTU3NjczNTI1NTIx.7G3tuBIqGBWPvYwtN1rSJeNbjtKchSq676LLqJxSGa8g.LU8vtCVrHjw79-i62hn-U-NLz_ZtFt9zl1TXljiBn-Ig.PNG.soccerson/10.png" width="250px"/>
-          </td>
-          <td>
-          <ul>
-          	<li>내 계좌의 비밀번호 입력</li>
-          </ul>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMjY3/MDAxNTU3NjczNTI1NTk5.euDOGCuOB9eE2wZnAT_lYr99HUe7TxxpyptJBNqZfZEg.zv6caZoU7ociDVm3spEB4y7vQU6warvXVxv4cR6dhzQg.PNG.soccerson/11.png" width="250px"/>
-          </td>
-          <td>
-          <ul>
-          	<li>비밀번호가 틀리거나 잔액이 부족하면 경고메세지와 함게 송금이 안됨</li>
-          	<li>송금이 완료되면 상대방의 컴퓨터에서 thread를 통해 데이터를 수신하여 입금이 되었다는 알람이 뜸</li>
-          </ul>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMTU3/MDAxNTU3NjczNTI1NTk4.2cRypmaIHA9vZMMSntXFs2iMHhqYdMAOSI9_zDgBZY0g.6gHMG_RfxKVcrsxaPJ8EBO6DQoxG9m-lhwsPIkxh-KYg.PNG.soccerson/12.png" width="250px"/>
-          </td>
-          <td>
-          <ul>
-          	<li>나의 계좌에서는 잔액이 차감되고 상대방의 계좌에서는 잔액이 증가된것을 확인할 수 있음</li>
-          </ul>
-          </td>
-        </tr>
-      </table>
+				<table style="border: 1px solid black">
+					<tr>
+						<td><img
+							src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMTk0/MDAxNTU3NjczNTI1NDI3.X9NgEKj20OsqZL6hziBSRyUy1dt08HO2LETgzuh7HdQg.KFX5mGvxksi__7HR828QXpHOf2h9kRmGkCwXefPHk-og.PNG.soccerson/8.png"
+							width="250px" /></td>
+						<td>
+							<ul>
+								<li>보낼 금액을 입력하고 보내기 버튼 클릭</li>
+							</ul>
+						</td>
+					</tr>
+					<tr>
+						<td><img
+							src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMjc1/MDAxNTU3NjczNTI1NDcy.Swx1PMH1I4YDvtYEjO4g9YhTHfdRK0p1NUewyJ2CiUog.3cuO58VzkSHofcTdFAE-Mc5lzyse08Dz3PO1PgMVx-8g.PNG.soccerson/9.png"
+							width="250px" /></td>
+						<td>
+							<ul>
+								<li>나의 어떤 계좌에서 보낼건지 고르고 상대방의 은행 및 계좌번호 입력</li>
+							</ul>
+						</td>
+					</tr>
+					<tr>
+						<td><img
+							src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMjA1/MDAxNTU3NjczNTI1NTIx.7G3tuBIqGBWPvYwtN1rSJeNbjtKchSq676LLqJxSGa8g.LU8vtCVrHjw79-i62hn-U-NLz_ZtFt9zl1TXljiBn-Ig.PNG.soccerson/10.png"
+							width="250px" /></td>
+						<td>
+							<ul>
+								<li>내 계좌의 비밀번호 입력</li>
+							</ul>
+						</td>
+					</tr>
+					<tr>
+						<td><img
+							src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMjY3/MDAxNTU3NjczNTI1NTk5.euDOGCuOB9eE2wZnAT_lYr99HUe7TxxpyptJBNqZfZEg.zv6caZoU7ociDVm3spEB4y7vQU6warvXVxv4cR6dhzQg.PNG.soccerson/11.png"
+							width="250px" /></td>
+						<td>
+							<ul>
+								<li>비밀번호가 틀리거나 잔액이 부족하면 경고메세지와 함게 송금이 안됨</li>
+								<li>송금이 완료되면 상대방의 컴퓨터에서 thread를 통해 데이터를 수신하여 입금이 되었다는 알람이 뜸</li>
+							</ul>
+						</td>
+					</tr>
+					<tr>
+						<td><img
+							src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMTU3/MDAxNTU3NjczNTI1NTk4.2cRypmaIHA9vZMMSntXFs2iMHhqYdMAOSI9_zDgBZY0g.6gHMG_RfxKVcrsxaPJ8EBO6DQoxG9m-lhwsPIkxh-KYg.PNG.soccerson/12.png"
+							width="250px" /></td>
+						<td>
+							<ul>
+								<li>나의 계좌에서는 잔액이 차감되고 상대방의 계좌에서는 잔액이 증가된것을 확인할 수 있음</li>
+							</ul>
+						</td>
+					</tr>
+				</table>
 			</td>
 		</tr>
 		<tr>
@@ -194,5 +195,5 @@
 				</ul>
 			</td>
 		</tr>
-	
+
 	</table>
