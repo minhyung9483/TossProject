@@ -11,7 +11,7 @@
 	<tr>
 		<td><img
 			src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMjU4/MDAxNTU3NjczNjY0ODY5.c1W9pOH3cCQaXAU8OysrdyxBrr5rR-kAT0fK8GSEZBYg.21MUxrkB309_XW39t_EhOk7dOokref7RpjIGz2378ocg.PNG.soccerson/db.png"
-			width="350px" /></td>
+			width="500px" /></td>
 		<td>
 			<ul>
 				<li>DB설계</li>
@@ -21,7 +21,7 @@
 	<tr>
 		<td><img
 			src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMTk5/MDAxNTU3NjczNjUxNDgw.t1U5tLvmWBLgeNZPE13g2vxt2dJkjSjCzx3fUGEcnMgg.Gb4UR_sEvYL0EJR38hNkPgcxWBJRMM4MBnv21dPL_Yog.PNG.soccerson/0.png"
-			width="350px" /></td>
+			width="500px" /></td>
 		<td>
 			<ul>
 				<li>서버 가동</li>
@@ -34,7 +34,7 @@
 	<tr>
 		<td><img
 			src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMTE2/MDAxNTU3NjczNTI1MTUy.OH24N-YPfysonCR0x3hk4CZMT2J0QeVF_ya0CuARp8kg.ieRKiK7D8DTb7T4S7tzf3W_hzANrjg6659hn997AoPEg.PNG.soccerson/1.png"
-			width="350px" /></td>
+			width="500px" /></td>
 		<td>
 			<ul>
 				<li>회원가입</li>
@@ -49,7 +49,7 @@
 		<tr>
 		<td><img
 			src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMjY5/MDAxNTU3NjczNTI1MTM3.QpioOAh3LgyM6FNldQiB7LY4IFcLDD-iNsxVuyXudlIg.qb6lp0w3PuXrkQkcRcRJJOomnXcL3VNTDTtYI4WyYnEg.PNG.soccerson/2.png"
-			width="350px" /></td>
+			width="500px" /></td>
 		<td>
 			<ul>
 				<li>로그인</li>
@@ -59,7 +59,7 @@
 	<tr>
 		<td><img
 			src="https://blogfiles.pstatic.net/MjAxOTA1MTNfNzkg/MDAxNTU3NjczNTI1MjAy.jbDOpiskdnjL3_g1QV1VpXHKxe0O91qvUlygYks44TAg.NPKGGhp6AGix9Di0d2gnuP9f7zTe8qn-fWI5r1igNYgg.PNG.soccerson/3.png"
-			width="350px" /></td>
+			width="500px" /></td>
 		<td>
 			<ul>
 				<li>잔액조회 탭</li>
@@ -89,7 +89,7 @@
 	<tr>
 		<td><img
 			src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMjM5/MDAxNTU3NjczNTI1MjEz.h7PgSQFlrmDAsaP2EHGBqejfBquzKOlLjKbzrTVFL6Ug.JIZoSiBzTJOCDEYciZNP-vlv9dd4xMvWKsqfCCJxCjQg.PNG.soccerson/5.png"
-			width="350px" /></td>
+			width="500px" /></td>
 		<td>
 			<ul>
 				<li>ATM 탭(입금)</li>
@@ -103,7 +103,7 @@
 	<tr>
 		<td><img
 			src="https://blogfiles.pstatic.net/MjAxOTA1MTNfNDIg/MDAxNTU3NjczNTI1MjE4.99cnsjN5V7esYitDd8zRxWymCV8tH1wni8KIUqopM-Ag.UDc1Bi9FXh_xluWAvXb-dV3-CMQOpfOdefRIftGH-1kg.PNG.soccerson/6.png"
-			width="350px" /></td>
+			width="500px" /></td>
 		<td>
 			<ul>
 				<li>ATM 탭(출금)</li>
@@ -119,7 +119,7 @@
 	<tr>
 		<td><img
 			src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMTA2/MDAxNTU3NjczNTI1Mzgw.enhSn5pczK2h8CyKlRti9NgYfkrMjMMCmT0YyYVqXLog.UKT5Tg6MhKhEYHSC_GHeKvCMDLjeOgBmmA_LByRu8e8g.PNG.soccerson/7.png"
-			width="350px" /></td>
+			width="500px" /></td>
 		<td>
 			<ul>
 				<li>서로 다른 컴퓨터에서 실행</li>
@@ -183,7 +183,7 @@
 	<tr>
 		<td><img
 			src="https://blogfiles.pstatic.net/MjAxOTA1MTNfODcg/MDAxNTU3NjczNTI1NzQz.pIEKAwz7NZgn_ihS-Ci1EtqgcV_myFUjCb12DkQwoiAg.DdDTM8Lermp_tgfwkbKNGb8KLWt63fafUauwu_I62XQg.PNG.soccerson/14.png"
-			width="350px" /></td>
+			width="500px" /></td>
 		<td>
 			<ul>
 				<li>계좌 내역 조회</li>
