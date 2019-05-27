@@ -5,8 +5,8 @@
 </ul>
 <table>
 	<tr>
-		<td>UI</td>
-		<td>상세 설명</td>
+		<td style="width:50%">UI</td>
+		<td style="width:50%">상세 설명</td>
 	</tr>
 	<tr>
 		<td><img
