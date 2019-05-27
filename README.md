@@ -11,7 +11,7 @@
 	<tr>
 		<td><img
 			src="https://blogfiles.pstatic.net/MjAxOTA1MTNfMjU4/MDAxNTU3NjczNjY0ODY5.c1W9pOH3cCQaXAU8OysrdyxBrr5rR-kAT0fK8GSEZBYg.21MUxrkB309_XW39t_EhOk7dOokref7RpjIGz2378ocg.PNG.soccerson/db.png"
-			width="350px" /></td>
+			width="500px" /></td>
 		<td>
 			<ul>
 				<li>DB설계</li>
